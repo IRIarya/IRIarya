@@ -1,16 +1,22 @@
-## Hi there 👋
+In The Name Of Allah
+# Hi, I'm Arya 👋
 
-<!--
-**IRIarya/IRIarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior backend developer focused on .NET.
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
+- Learning C# and ASP.NET Core
+- Building REST APIs with SQL Server
+- Improving my Git and testing skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** C#, SQL
+- **Frameworks:** .NET, ASP.NET Core
+- **Databases:** SQL Server
+- **Tools:** Git, GitHub, Visual Studio, VS Code
+
+## 📂 Projects
+*Coming soon — I'm building my portfolio step by step.*
+
+## 📫 How to reach me
+- LinkedIn: 
+- Email: arya.norouzi.dev@gmail.com
