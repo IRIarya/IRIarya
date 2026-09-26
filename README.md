@@ -1,5 +1,5 @@
-In The Name Of Allah
-# Hi, I'm Arya 👋
+# In The Name Of Allah
+# Hi, I'm Arya Norouzi 👋
 
 I'm a junior backend developer focused on .NET.
 
@@ -18,6 +18,4 @@ I'm a junior backend developer focused on .NET.
 *Coming soon — I'm building my portfolio step by step.*
 
 ## 📫 How to reach me
-- LinkedIn: 
 - Email: arya.norouzi.dev@gmail.com
-<!-- my first edit -->
