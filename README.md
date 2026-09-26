@@ -20,3 +20,4 @@ I'm a junior backend developer focused on .NET.
 ## 📫 How to reach me
 - LinkedIn: 
 - Email: arya.norouzi.dev@gmail.com
+<!-- my first edit -->
